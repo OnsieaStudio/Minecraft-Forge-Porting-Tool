@@ -1,0 +1,6 @@
+# Java source code conventions of this project
+
+- Package prefixes: fr.onsiea.mfpt
+- Getter | setter methods without "get..." and "set..."
+  - void foo(int foo) [...]
+  - int foo() [...]
